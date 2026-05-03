@@ -52,7 +52,7 @@ python-whois
 pyttsx3
 pytube
 pytz
-pyyaml
+pyyaml==6.0.3
 qrcode
 requests
 search_engine_parser
@@ -67,7 +67,7 @@ youtube_dl==2021.12.17
 pornhub-api
 
 python-telegram-bot==21.1.1
-pyyaml==6.0.1
+pyyaml==6.0.3==6.0.1
 MukeshAPI
 youtube-search
 youtube-search-python
